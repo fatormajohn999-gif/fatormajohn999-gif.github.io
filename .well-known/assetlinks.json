@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.fatormajohn999_gif.twa",
+        "sha256_cert_fingerprints": ["85:F4:AC:9E:27:5A:68:17:47:3E:5A:80:0D:C5:1B:78:95:03:3B:26:5B:8E:9E:B4:72:63:E4:D4:C8:A3:59:86"]
+      }
+    }]
